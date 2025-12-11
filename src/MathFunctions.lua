@@ -18,4 +18,25 @@ function MathFunctions.Mean(Array)
   return average
 end
 
+function MathFunctions.Mode(Array)
+
+  
+  
+end
+
+function MathFunctions.Median(Array)
+
+  local totalIndex = #Array
+  local trueIndex = 0
+
+  for Index, Value in pairs(Array) do
+    
+  end
+  
+end
+
+function MathFunctions.Range(Array)
+  
+end
+
 return MathFunctions
