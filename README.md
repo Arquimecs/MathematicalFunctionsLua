@@ -1,1 +1,1 @@
-wip
+The purpose of this repository is to make a lua code module that gets number arrays or dictionaries as input (aslong as the value is a number, the index doesn't matter) and output statistical data that is chosen by the **user**. It offers a wide range of functions and visualizes data for easy to comprehend mechanics.
