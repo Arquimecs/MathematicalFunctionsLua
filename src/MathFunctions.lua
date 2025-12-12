@@ -1,5 +1,8 @@
 local MathFunctions = {}
 
+function MathFunctions.StandardDeviation(Array)
+end
+
 function MathFunctions.Mean(Array)
   local sum = 0
   local finalIndex = #Array or 0
